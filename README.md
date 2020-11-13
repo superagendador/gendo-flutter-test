@@ -1,11 +1,11 @@
-# Teste para vaga de front-end na Gendo/SuperAgendador
-Este repositório tem como fim testar os candidatos para vaga de front-end developer na empresa [Gendo](https://gendo.com.br).
-> Para esta vaga buscamos alguém apaixonado por HTML, CSS, JavaScript e atento aos detalhes!
+# Teste para vaga dev. Flutter na Gendo
+Este repositório tem como fim testar os candidatos para vaga dev. Flutter na empresa [Gendo](https://gendo.com.br).
+> Para esta vaga buscamos alguém apaixonado por mobile e atento aos detalhes!
 
 
 ## Instruções Básicas
 1. Faça um fork deste repositório
-2. Implemente o HTML e CSS de forma que fique fiel ao layout
+2. Implemente o layout de forma que fique fiel aos fontes mobile anexos neste teste
 3. Atenção com espaçamentos e tamanhos de fonte
 4. Qualquer contribuição para melhorar o resultado será bem vinda!
 5. O usuário do GitHub utilizado no exemplo pode ser qualquer um de sua escolha
@@ -18,23 +18,14 @@ Este repositório tem como fim testar os candidatos para vaga de front-end devel
 4. Fazer uma busca ao digitar e fazer o submit com "Enter"
 
 ## O que esperamos no teste
-* HTML Semântico
-* CSS de fácil leitura e reutilização
-* Uso de pré-processadores CSS como Sass, Less ou Stylus
-* Uso de algum *task runner* para gerar os arquivos minificados (Grunt, Gulp, Webpack, etc.)
+* Um código Dart organizado com nomes de variáveis e funções auto explicativas
+* Uma boa doc. para compilar o projeto corretamente para Andorid e iOS
 
 ## Stack
 ### Preferível
-* Utilizar Sass como pré-processador
-* Mobile First
-
-### Bônus
-* AngularJS, Angular (2+), React, VueJS ou Javascript puro e organizado
-* CSS transitions
-* [BEM](https://tableless.com.br/bem-um-novo-metodo-para-seu-css/) (Block, Element Modifier) nas nomenclaturas do CSS
+* Dart/Flutter
 
 ## Material
-
 Todo o layout está hospedado no Zeplin neste link: https://zpl.io/25q7DKo
 
 ### Como acessar o Zeplin
@@ -44,4 +35,4 @@ Todo o layout está hospedado no Zeplin neste link: https://zpl.io/25q7DKo
 4. Acesse as telas, clique nos elementos e veja as epecificações no lado direito da tela
 
 ## Envio do teste
-1. Suba o repositório no seu Github e envie o link com o assunto: **Teste Front-End** para Juliano Baladão [jbaladao@gendo.com.br](mailto:jbaladao@gendo.com.br)
+1. Suba o repositório no seu Github e envie o link com o assunto: **Teste Dev. Flutter** para Juliano Baladão [jbaladao@gendo.com.br](mailto:jbaladao@gendo.com.br)
